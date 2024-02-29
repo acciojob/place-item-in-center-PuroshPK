@@ -1,8 +1,13 @@
-.holder {
-	
-	width: 100vw;
-	height: 100vh;
-	algin-items: center;
+
+/* Your CSS Code here. */
+
+.holder{
+	width:100vw;
+	height:100vh;
+	display:flex;
+	justify-content:center;
+	/* align-content:center; */
+	align-items:center;
 }
 .item-1 {
 	width: 100px;
